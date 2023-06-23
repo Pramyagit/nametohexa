@@ -1,0 +1,51 @@
+.hexa{
+    width:500px;
+    height:400px;
+    /* display:none; */
+background-color: rgb(99, 163, 253);
+margin-right:20px;
+margin-top:30px;
+border-radius:20px;
+box-shadow:inset(2px 2px 2px rgb(0,0,0.2)),
+outset(2px 2px 2px rgb(0,0,0.2))
+}
+#btn{
+    width: 80px;
+    height:30px;
+    margin:10px;
+ background-color:Green;
+ border-radius:20px;
+ color:white;
+ font-size: 20px;
+}
+textarea{
+    margin-top:0px;
+    font-size: 20px;;
+}
+@media(max-width:550px){
+    .hexa{
+        display:flex;
+        flex-direction: column;
+        width:200px;
+        height:250px;
+        /* display:none; */
+    background-color: tr;
+    margin:0;
+    border-radius:0px;
+    margin-top:5px;
+      }
+      #btn{
+        width: 80px;
+        height:20px;
+        margin:0;
+     background-color:Green;
+     border-radius:20px;
+     color:white;
+     font-size: 15px;
+    }
+    textarea{
+        margin-top:0px;
+        font-size: 15px;;
+    }
+      
+}
