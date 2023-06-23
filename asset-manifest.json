@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nametohexa/static/css/main.a8767671.css",
+    "main.js": "/nametohexa/static/js/main.222546a1.js",
+    "static/js/787.a2d3872a.chunk.js": "/nametohexa/static/js/787.a2d3872a.chunk.js",
+    "index.html": "/nametohexa/index.html",
+    "main.a8767671.css.map": "/nametohexa/static/css/main.a8767671.css.map",
+    "main.222546a1.js.map": "/nametohexa/static/js/main.222546a1.js.map",
+    "787.a2d3872a.chunk.js.map": "/nametohexa/static/js/787.a2d3872a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8767671.css",
+    "static/js/main.222546a1.js"
+  ]
+}
